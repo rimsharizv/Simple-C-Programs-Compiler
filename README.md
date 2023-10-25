@@ -11,7 +11,7 @@ The compiler consists of the following components:
 3. **Analyzer** (`analyzer.fs`): This component performs semantic analysis on the parsed program to check for any semantic errors.
 4. **Checker** (`checker.fs`): This component checks the program for additional errors such as undefined variables, type mismatches, etc.
 5. **Main File** (`main.fs`): This is the main entry point of the compiler. It coordinates the actions of the other components.
-6. **Main.c** (`main1.c`,`main2.c`, `main3.c`): These are sample input C programs for the compiler.
+6. **Main.c** (`main1.c`,`main2.c`): These are sample input C programs for the compiler.
 
 ## Usage
 1. Clone the repository to your local machine.
